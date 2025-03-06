@@ -1,4 +1,4 @@
-@media (min-width: 560px) {
+@media (min-width: 760px) {
 
 body {
   font-family: "Sigmar", Arial, sans-serif;
@@ -7,10 +7,20 @@ body {
   font-style: normal;
   line-height: 1.182em;  
 }
+
 .form-container {
   display: grid;
   place-items: center;
   min-height: 80vh;
+}
+
+input[type="email"], input[type="text"], input[type="tel"] {
+  width: 100%;
+  padding: 13px;
+  background: #f0f0f0;
+  border-radius: 8px;
+  float: right;
+  
 }
 
 form {
@@ -93,7 +103,7 @@ p {
 }
 
 input[type="email"], input[type="text"], input[type="tel"] {
-  width: 50%;
+  width: 80%;
   padding: 13px;
   background: #f0f0f0;
   border-radius: 8px;
