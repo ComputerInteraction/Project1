@@ -80,20 +80,20 @@ button {
 /* For Desktops (min-width: 900px) */
 
 @media (min-width: 900px) {
-  .form-container {
-    padding: 40px;
-    max-width: 600px;
-  }
+.form-container {
+  padding: 40px;
+  max-width: 600px;
+}
   
-  h1 {
-    font-size: 28px;
-  }
+h1 {
+  font-size: 28px;
+}
   
-  input, button {
-    font-size: 18px;
-    padding: 14px;
-    border: none;
-  }
+input, button {
+  font-size: 18px;
+  padding: 14px;
+  border: none;
+}
   
 }
 
