@@ -94,7 +94,7 @@ body {
 }
 
 input[type="email"], input[type="text"], input[type="tel"] {
-  width: 80%;
+  width: 90%;
   padding: 13px;
   background: #f0f0f0;
   border-radius: 8px;
