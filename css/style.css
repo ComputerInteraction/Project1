@@ -77,6 +77,15 @@ button {
   border-radius: 8px;
 }
 
+@media (min-width: 900px) {
+  .form-container {
+    padding: 40px;
+    max-width; 600px;
+  }
+  
+  
+}
+
 @media (min-width: 760px) {
 
 body {
